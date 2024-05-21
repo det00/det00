@@ -11,6 +11,4 @@ Habilidades: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-t
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/det00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-estevez-a414a0292/)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=det00)](https://github.com/anuraghazra/github-readme-stats)
-
 
