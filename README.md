@@ -1,5 +1,5 @@
 ### Hola 👋, mi nombre es David!
-#### Estudiante de DAM.
+#### Estudiante de 2ºDAM.
 
 Habilidades: 
 
