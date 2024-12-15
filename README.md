@@ -16,7 +16,4 @@ Habilidades:
 - 🔭 Estoy aprendiendo JavaScript y Python en 2 curso de Desarrollo de Aplicaciones Multiplataforma.
 - 📫 Cómo contactarme: estevezdet@gmail.com 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=det00&layout=compact)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/det00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-estevez-a414a0292/) 
